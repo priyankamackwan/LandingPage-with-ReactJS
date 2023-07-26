@@ -25,6 +25,7 @@ You can now access the server at http://localhost:3000
 Builds the app for production to the build folder.
 
     npm run build
+    
     It correctly bundles React in production mode and optimizes the build for the best performance.
 
     The build is minified and the filenames include the hashes.
@@ -34,7 +35,7 @@ Builds the app for production to the build folder.
 
 ***Note***: this is a one-way operation. Once you `eject`, you can't go back!
 
-    ### `npm run eject`
+    npm run eject
 
     If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
